@@ -6,3 +6,8 @@ Proyecto del curso Exploratory Data Analysis para Maestria ciencia de datos - IC
 Laura Espinosa
 
 Carlos Jaramillo
+
+
+---
+
+https://drive.google.com/file/d/15X6ugA6BEcnXVOIEvFT1bNDK69Ht5AMU/view?usp=sharing
